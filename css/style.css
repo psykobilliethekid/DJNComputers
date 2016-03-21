@@ -1,0 +1,135 @@
+/*--Quick Contact--*/
+
+.quickContact{
+	padding: 15px;
+	font-size: 16px;
+}
+
+.navbar-default{
+	margin: 0px;
+}
+
+/*--General Styles--*/
+.paddingLeft35{
+	padding-left: 35px;
+}
+
+hr{
+	margin: 0px;
+}
+
+/*--Logo--*/
+.jumbotron{
+	background-color: #428bca;
+}
+
+#logo{
+	width: 100%;
+}
+
+/*--About Us--*/
+
+#aboutUs{
+	background-color: #428bca;
+	margin: 0px;
+	padding: 20px;
+	color: #fff;
+}
+
+#aboutImg{
+	border: 1px solid #fff;
+	padding: 10px;
+}
+
+.aboutText{
+	padding: 50px;
+	font-size: 18px;
+}
+
+
+/*--Bootsnip-Simple Carousel--*/
+.carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+}
+/* The controlsy */
+.carousel-control {
+	left: -12px;
+    height: 40px;
+	width: 40px;
+    background: none repeat scroll 0 0 #222222;
+    border: 4px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    margin-top: 90px;
+}
+.carousel-control.right {
+	right: -12px;
+}
+/* The indicators */
+.carousel-indicators {
+	right: 50%;
+	top: auto;
+	bottom: -10px;
+	margin-right: -19px;
+}
+/* The colour of the indicators */
+.carousel-indicators li {
+	background: #cecece;
+}
+.carousel-indicators .active {
+background: #428bca;
+}
+
+/*--Bootsnipp - Bootstrap Lightbox--*/
+#lightbox .modal-content {
+    display: inline-block;
+    text-align: center;   
+}
+
+#lightbox .close {
+    opacity: 1;
+    color: rgb(255, 255, 255);
+    background-color: rgb(25, 25, 25);
+    padding: 5px 8px;
+    border-radius: 30px;
+    border: 2px solid rgb(255, 255, 255);
+    position: absolute;
+    top: -15px;
+    right: -55px;
+    
+    z-index:1032;
+}
+
+
+/*--Footer--*/
+#commentForm{
+	border-right: 1px solid #fff;
+
+}
+
+footer{
+	background-color: #428bca;
+	padding: 20px;
+	color: #fff;
+}
+
+footer span fa{
+	font-size: 16px;
+}
+
+address{
+	font-size: 18px;
+}
+
+iframe{
+	padding: 15px;
+}
+
+#socialMedia a{
+	color: #fff;
+	padding: 5px;
+}
+
+.social{
+	font-size: 32px;
+}
