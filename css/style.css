@@ -46,6 +46,10 @@ hr{
 	font-size: 18px;
 }
 
+.middleDivide{
+	border-top: 3px solid #428bca;
+}
+
 
 /*--Bootsnip-Simple Carousel--*/
 .carousel {
